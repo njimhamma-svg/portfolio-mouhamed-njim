@@ -1,0 +1,1 @@
+Place your image assets here. Name them slide1.jpg, slide2.jpg, slide3.jpg or update the paths in index.html accordingly.
